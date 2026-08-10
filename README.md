@@ -27,16 +27,9 @@ cmake --build build
 
 The packaged app will be produced as `build/epub_to_txt.vxp`.
 
-## Install
+## File
 
-Copy `epub_to_txt.vxp` to the phone or microSD card, then install it from the phone file manager.
-
-## Usage
-
-1. Put `book.epub` at `E:\epub\book.epub` on the microSD card.
-2. Open the app on the phone.
-3. On the ready screen, press **OK** or the **left softkey** to start conversion.
-4. The app writes the output to `E:\epub\book.txt`.
+- [epub_to_txt.vxp](https://rdzdx.github.io/mre_epub_to_txt/epub_to_txt.vxp)
 
 ## Notes
 
