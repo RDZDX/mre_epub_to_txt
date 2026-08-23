@@ -14,6 +14,12 @@ This directory contains a **MediaTek Runtime Environment (MRE)** application for
 - Output is capped at **512 KB** to fit the memory budget of the target device.
 - The app is tuned for small EPUBs on low-RAM phones and rejects oversized archives or very large HTML entries.
 
+## Nokia Phone Signing
+
+For use on Nokia mobile phones, the application must be signed using the IMSI code of your SIM card.
+
+More information: https://vxpatch.luxferre.top
+
 ## Links
 
 - https://github.com/XimikBoda/CmakeMreTemplate
